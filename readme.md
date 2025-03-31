@@ -14,8 +14,7 @@ A modern football community platform built with Next.js, TypeScript, and Shadcn 
 1. Clone the repository
 
 ```bash
-git clone [your-repository-url]
-cd [project-directory]
+git clone https://github.com/Ahmed-kazi29/football-coding-assessment.git
 ```
 
 2. Install dependencies
@@ -29,7 +28,8 @@ npm install
 
 ```env
 API_BASE_URL=your_api_base_url
-
+API_TOKEN=api_key
+BASE_URL=foot_ball_api_base_url
 ```
 
 4. Run the development server
